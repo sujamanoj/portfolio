@@ -52,6 +52,6 @@ border-color: #0ebd57;
 .intro {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 
 }
