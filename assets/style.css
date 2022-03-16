@@ -1,10 +1,10 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: tomato;
+    background-color: rgb(241, 236, 235);
   }
   body {
     /* more on this crazy alphanumerical value in a minute! */
-    color: #b427a8;
+    color: #1faa54;
   }
 
   /* apply styles to <header> */
@@ -15,7 +15,7 @@ body {
       text-align: center;
 }
   header a {
-      color: #b427a8; 
+      color: #1faa54;
     }
 
 header nav ul {
@@ -41,6 +41,17 @@ border-style: solid;
 border-width: 3px;
 border-color: #0ebd57;    
 }
- {
-    
+.about {
+    color: #441b0b; 
+    margin: 10px 10px 10px 10px;
+    border-width: 25px 5px 25px 5px;
+   background-color: #1faa54;
+    font-style: italic;
+}
+.class {}
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
 }
