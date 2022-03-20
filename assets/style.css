@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: yellowgreen;
+    text-align: center;
 }
 /* title and nav */
 #heading a {
