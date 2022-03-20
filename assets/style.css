@@ -46,6 +46,19 @@ h2 {
     height: 10vh;
     font-size: 10vh;
 }
+/* about */
+#suja {
+    width: 100px;
+    height: fit-content;
+    display: flex;
+    padding: 35px; 
+}
+#about-content{
+    display: flex;
+    text-align: left;
+    padding: 25px;
+}
+
 #logo{
     width: 100%;
     padding: 25px 25px 25px 25px;
